@@ -1,0 +1,842 @@
+2021-11-01 09:31:25,853 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-11-01 09:31:48,250 [main] INFO logger_File - Scenario Retail website Login test UNDEFINED
+2021-11-01 09:37:40,349 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-11-01 09:37:56,232 [main] INFO logger_File - Scenario Retail website Login test UNDEFINED
+2021-11-01 09:42:17,124 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-11-01 09:42:29,260 [main] INFO logger_File - Scenario Retail website Login test UNDEFINED
+2021-11-01 09:45:27,220 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-11-01 09:45:46,755 [main] INFO logger_File - Scenario Retail website Login test UNDEFINED
+2021-11-01 09:46:42,971 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-11-01 09:46:57,633 [main] INFO logger_File - Scenario Retail website Login test UNDEFINED
+2021-11-01 09:48:48,713 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-11-01 09:49:07,383 [main] INFO logger_File - Scenario Retail website Login test UNDEFINED
+2021-11-01 09:51:10,554 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-11-01 09:51:24,796 [main] INFO logger_File - Scenario Retail website Login test UNDEFINED
+2021-11-01 09:53:38,953 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-11-01 09:53:59,646 [main] INFO logger_File - Scenario Retail website Login test UNDEFINED
+2021-11-01 10:31:58,005 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-11-01 10:32:17,617 [main] INFO logger_File - Scenario Retail website Login test UNDEFINED
+2021-11-01 10:34:22,468 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-11-01 10:34:39,252 [main] INFO logger_File - Scenario Retail website Login test UNDEFINED
+2021-11-01 10:37:41,059 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-11-01 10:38:02,354 [main] INFO logger_File - Scenario Retail website Login test UNDEFINED
+2021-11-01 21:01:48,057 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-11-01 21:02:00,379 [main] INFO logger_File - Scenario Retail website Login test UNDEFINED
+2021-11-01 21:04:50,861 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-11-01 21:04:59,601 [main] INFO logger_File - Scenario Retail website Login test PASSED
+2021-11-08 14:06:39,391 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-11-08 14:06:57,513 [main] INFO logger_File - Scenario Retail website Login test PASSED
+2021-11-08 15:33:24,994 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-11-08 15:33:40,767 [main] INFO logger_File - Scenario Retail website Login test PASSED
+2021-11-08 20:09:28,638 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-11-08 20:09:43,965 [main] INFO logger_File - Scenario Retail website Login test PASSED
+2021-11-08 20:12:17,879 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2021-11-08 20:12:36,441 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab UNDEFINED
+2021-11-08 20:15:07,287 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2021-11-08 20:15:30,646 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab PASSED
+2021-11-09 08:27:29,083 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2021-11-09 08:28:01,030 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab FAILED
+2021-11-09 08:30:56,381 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2021-11-09 08:31:06,095 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab FAILED
+2021-11-09 08:33:51,497 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2021-11-09 08:34:03,303 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab FAILED
+2021-11-09 08:41:44,639 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2021-11-09 08:41:58,926 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab FAILED
+2021-11-09 08:49:15,297 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2021-11-09 08:49:27,311 [main] INFO logger_File - Actual Title is Matching with Expected Title
+2021-11-09 08:49:27,791 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab PASSED
+2021-11-09 08:57:29,714 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2021-11-09 08:57:39,673 [main] INFO logger_File - Actual Title is Matching with Expected Title
+2021-11-09 08:57:40,593 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab PASSED
+2021-11-09 09:00:08,232 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2021-11-09 09:00:18,023 [main] INFO logger_File - Actual Title is Matching with Expected Title
+2021-11-09 09:00:18,625 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab PASSED
+2021-11-09 09:08:48,119 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2021-11-09 09:08:59,034 [main] INFO logger_File - Actual Title is Matching with Expected Title
+2021-11-09 09:09:01,331 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab PASSED
+2021-11-09 09:09:28,519 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2021-11-09 09:09:37,608 [main] INFO logger_File - Actual Title is Matching with Expected Title
+2021-11-09 09:09:40,357 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab PASSED
+2021-11-09 09:35:52,193 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2021-11-09 09:36:17,558 [main] INFO logger_File - Actual Title is Matching with Expected Title
+2021-11-09 09:36:18,016 [main] INFO logger_File - user clicked on desktops
+2021-11-09 09:36:21,767 [main] INFO logger_File - user clicked on show all desktops
+2021-11-09 09:36:21,868 [main] INFO logger_File - user could see all items present in the desktop page
+2021-11-09 09:36:24,096 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab PASSED
+2021-11-09 09:48:16,776 [main] INFO logger_File - Scenario Retail website Login test Started
+2021-11-09 09:49:06,870 [main] INFO logger_File - Scenario Retail website Login test FAILED
+2021-11-09 13:19:29,645 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2021-11-09 13:19:55,019 [main] INFO logger_File - Actual Title is Matching with Expected Title
+2021-11-09 13:19:55,237 [main] INFO logger_File - user clicked on desktops
+2021-11-09 13:19:59,207 [main] INFO logger_File - user clicked on show all desktops
+2021-11-09 13:20:01,185 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart UNDEFINED
+2021-11-09 13:21:17,158 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2021-11-09 13:21:26,736 [main] INFO logger_File - Actual Title is Matching with Expected Title
+2021-11-09 13:21:26,920 [main] INFO logger_File - user clicked on desktops
+2021-11-09 13:21:28,302 [main] INFO logger_File - user clicked on show all desktops
+2021-11-09 13:21:28,853 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart UNDEFINED
+2021-11-09 13:29:12,262 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2021-11-09 13:29:23,736 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart PASSED
+2021-11-09 14:23:12,128 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2021-11-09 14:23:55,349 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-09 14:23:55,635 [main] INFO logger_File - user did click on the desktops
+2021-11-09 14:23:57,033 [main] INFO logger_File - user did click on show all
+2021-11-09 14:23:57,179 [main] INFO logger_File - User did click on cart
+2021-11-09 14:24:06,446 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart FAILED
+2021-11-09 14:43:15,862 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2021-11-09 14:43:27,736 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-09 14:43:28,158 [main] INFO logger_File - user did click on the desktops
+2021-11-09 14:43:29,662 [main] INFO logger_File - user did click on show all
+2021-11-09 14:43:29,854 [main] INFO logger_File - User did click on cart
+2021-11-09 14:43:29,862 [main] INFO logger_File - User entered quamtity
+2021-11-09 14:43:34,975 [main] INFO logger_File - User added to car
+2021-11-09 14:43:36,787 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart PASSED
+2021-11-09 14:51:17,608 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2021-11-09 14:51:25,452 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-09 14:51:26,705 [main] INFO logger_File - user did click on the desktops
+2021-11-09 14:51:28,099 [main] INFO logger_File - user did click on show all
+2021-11-09 14:51:28,229 [main] INFO logger_File - User did click on cart
+2021-11-09 14:51:28,234 [main] INFO logger_File - User entered quamtity
+2021-11-09 14:51:31,719 [main] INFO logger_File - User added to car
+2021-11-09 14:51:34,684 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart PASSED
+2021-11-09 14:53:32,682 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2021-11-09 14:53:47,725 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-09 14:53:48,273 [main] INFO logger_File - user did click on the desktops
+2021-11-09 14:53:49,956 [main] INFO logger_File - user did click on show all
+2021-11-09 14:53:50,464 [main] INFO logger_File - User did click on cart
+2021-11-09 14:53:53,351 [main] INFO logger_File - User entered quamtity
+2021-11-09 14:53:54,404 [main] INFO logger_File - User added to car
+2021-11-09 14:53:55,786 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart PASSED
+2021-11-10 13:55:23,705 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2021-11-10 13:55:38,253 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-10 13:55:39,384 [main] INFO logger_File - user did click on the desktops
+2021-11-10 13:55:41,188 [main] INFO logger_File - user did click on show all
+2021-11-10 13:55:41,482 [main] INFO logger_File - User did click on cart
+2021-11-10 13:56:17,893 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart FAILED
+2021-11-10 13:57:58,789 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2021-11-10 13:58:07,347 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-10 13:58:08,339 [main] INFO logger_File - user did click on the desktops
+2021-11-10 13:58:10,013 [main] INFO logger_File - user did click on show all
+2021-11-10 13:58:10,309 [main] INFO logger_File - User did click on cart
+2021-11-10 13:58:10,667 [main] INFO logger_File - User entered quamtity
+2021-11-10 13:58:13,086 [main] INFO logger_File - User added to car
+2021-11-10 13:58:14,467 [main] INFO logger_File - Scenario User add HP LP 3065  from Desktops tab to the cart PASSED
+2021-11-10 14:27:54,965 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2021-11-10 14:28:08,593 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-10 14:28:09,734 [main] INFO logger_File - user did click on the desktops
+2021-11-10 14:28:11,348 [main] INFO logger_File - user did click on show all
+2021-11-10 14:28:12,256 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart UNDEFINED
+2021-11-10 14:30:37,778 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2021-11-10 14:30:47,994 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-10 14:30:49,077 [main] INFO logger_File - user did click on the desktops
+2021-11-10 14:30:51,291 [main] INFO logger_File - user did click on show all
+2021-11-10 14:30:52,123 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart UNDEFINED
+2021-11-10 14:31:38,975 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2021-11-10 14:31:48,747 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart UNDEFINED
+2021-11-10 14:39:35,917 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2021-11-10 14:39:44,442 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart PENDING
+2021-11-10 15:45:26,503 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2021-11-10 15:45:36,709 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-10 15:45:37,741 [main] INFO logger_File - user did click on the desktops
+2021-11-10 15:45:39,399 [main] INFO logger_File - user did click on show all
+2021-11-10 15:45:40,020 [main] INFO logger_File - User added to cart
+2021-11-10 15:45:43,247 [main] INFO logger_File - user picked the color
+2021-11-10 15:45:43,680 [main] INFO logger_File - user picked the quantity
+2021-11-10 15:45:44,065 [main] INFO logger_File - user clicked on the add to cart
+2021-11-10 15:45:44,589 [main] INFO logger_File - user can see the success message
+2021-11-10 15:45:45,692 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2021-11-10 15:46:17,340 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2021-11-10 15:46:28,160 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-10 15:46:29,241 [main] INFO logger_File - user did click on the desktops
+2021-11-10 15:46:34,084 [main] INFO logger_File - user did click on show all
+2021-11-10 15:46:34,536 [main] INFO logger_File - User added to cart
+2021-11-10 15:46:39,060 [main] INFO logger_File - user picked the color
+2021-11-10 15:46:39,789 [main] INFO logger_File - user picked the quantity
+2021-11-10 15:46:40,185 [main] INFO logger_File - user clicked on the add to cart
+2021-11-10 15:46:40,601 [main] INFO logger_File - user can see the success message
+2021-11-10 15:46:41,457 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2021-11-12 12:33:33,857 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2021-11-12 12:34:00,320 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-12 12:34:01,280 [main] INFO logger_File - user did click on the desktops
+2021-11-12 12:34:08,819 [main] INFO logger_File - user did click on show all
+2021-11-12 12:34:09,101 [main] INFO logger_File - User added to cart
+2021-11-12 12:34:14,973 [main] INFO logger_File - user picked the color
+2021-11-12 12:34:16,226 [main] INFO logger_File - user picked the quantity
+2021-11-12 12:34:16,605 [main] INFO logger_File - user clicked on the add to cart
+2021-11-12 12:34:16,986 [main] INFO logger_File - user can see the success message
+2021-11-12 12:34:18,208 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2021-11-15 06:55:42,767 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2021-11-15 06:56:09,439 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-15 06:56:11,109 [main] INFO logger_File - user did click on the desktops
+2021-11-15 06:56:17,925 [main] INFO logger_File - user did click on show all
+2021-11-15 06:56:18,352 [main] INFO logger_File - User added to cart
+2021-11-15 06:56:25,145 [main] INFO logger_File - user picked the color
+2021-11-15 06:56:27,102 [main] INFO logger_File - user picked the quantity
+2021-11-15 06:56:27,620 [main] INFO logger_File - user clicked on the add to cart
+2021-11-15 06:56:28,048 [main] INFO logger_File - user can see the success message
+2021-11-15 06:56:31,410 [main] INFO logger_File - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2021-11-15 07:17:17,791 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-15 07:17:35,486 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-15 07:17:36,111 [main] INFO logger_File - user did click on the desktops
+2021-11-15 07:17:44,927 [main] INFO logger_File - user did click on show all
+2021-11-15 07:17:45,768 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab UNDEFINED
+2021-11-15 12:07:39,497 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-15 12:08:01,859 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-15 12:08:02,533 [main] INFO logger_File - user did click on the desktops
+2021-11-15 12:08:10,575 [main] INFO logger_File - user did click on show all
+2021-11-15 12:08:11,815 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab UNDEFINED
+2021-11-15 12:11:37,015 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-15 12:12:02,075 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-15 12:12:02,503 [main] INFO logger_File - user did click on the desktops
+2021-11-15 12:12:11,990 [main] INFO logger_File - user did click on show all
+2021-11-15 12:12:16,294 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2021-11-15 15:57:23,490 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-15 15:57:34,588 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-15 15:57:35,371 [main] INFO logger_File - user did click on the desktops
+2021-11-15 15:57:40,920 [main] INFO logger_File - user did click on show all
+2021-11-15 15:57:41,611 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab UNDEFINED
+2021-11-15 15:58:55,666 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-15 15:59:13,046 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-15 15:59:13,724 [main] INFO logger_File - user did click on the desktops
+2021-11-15 15:59:19,867 [main] INFO logger_File - user did click on show all
+2021-11-15 15:59:20,639 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab UNDEFINED
+2021-11-15 16:09:04,363 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-15 16:09:14,514 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-15 16:09:14,963 [main] INFO logger_File - user did click on the desktops
+2021-11-15 16:09:19,961 [main] INFO logger_File - user did click on show all
+2021-11-15 16:09:24,824 [main] INFO logger_File - User did open the page
+2021-11-15 16:09:25,330 [main] INFO logger_File - User did click on the write review
+2021-11-15 16:09:26,531 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2021-11-15 16:11:22,821 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-15 16:11:36,504 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-15 16:11:37,386 [main] INFO logger_File - user did click on the desktops
+2021-11-15 16:11:43,898 [main] INFO logger_File - user did click on show all
+2021-11-15 16:11:50,514 [main] INFO logger_File - User did open the page
+2021-11-15 16:11:51,006 [main] INFO logger_File - User did click on the write review
+2021-11-15 16:11:52,024 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2021-11-15 16:18:34,142 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-15 16:18:49,201 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-15 16:18:50,151 [main] INFO logger_File - user did click on the desktops
+2021-11-15 16:18:57,151 [main] INFO logger_File - user did click on show all
+2021-11-15 16:19:03,815 [main] INFO logger_File - User did open the page
+2021-11-15 16:19:04,263 [main] INFO logger_File - User did click on the write review
+2021-11-15 16:19:05,244 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2021-11-15 17:08:04,445 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-15 17:08:11,992 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-15 17:08:12,985 [main] INFO logger_File - user did click on the desktops
+2021-11-15 17:08:15,044 [main] INFO logger_File - user did click on show all
+2021-11-15 17:08:18,290 [main] INFO logger_File - User did open the page
+2021-11-15 17:08:18,774 [main] INFO logger_File - User did click on the write review
+2021-11-15 17:08:19,747 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2021-11-17 10:13:39,615 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-17 10:14:12,979 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-17 10:14:13,816 [main] INFO logger_File - user did click on the desktops
+2021-11-17 10:14:24,852 [main] INFO logger_File - user did click on show all
+2021-11-17 10:14:33,649 [main] INFO logger_File - User did open the page
+2021-11-17 10:14:34,483 [main] INFO logger_File - User did click on the write review
+2021-11-17 10:14:36,398 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2021-11-17 10:37:20,050 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-17 10:37:41,488 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-17 10:37:41,950 [main] INFO logger_File - user did click on the desktops
+2021-11-17 10:37:51,163 [main] INFO logger_File - user did click on show all
+2021-11-17 10:37:57,558 [main] INFO logger_File - User did open the page
+2021-11-17 10:37:58,449 [main] INFO logger_File - User did click on the write review
+2021-11-17 10:38:01,129 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2021-11-17 10:39:43,245 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-17 10:40:00,962 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-17 10:40:01,488 [main] INFO logger_File - user did click on the desktops
+2021-11-17 10:40:08,214 [main] INFO logger_File - user did click on show all
+2021-11-17 10:40:13,216 [main] INFO logger_File - User did open the page
+2021-11-17 10:40:13,826 [main] INFO logger_File - User did click on the write review
+2021-11-17 10:40:15,777 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2021-11-17 14:50:52,040 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-17 14:51:12,165 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-17 14:51:13,008 [main] INFO logger_File - user did click on the desktops
+2021-11-17 14:51:20,427 [main] INFO logger_File - user did click on show all
+2021-11-17 14:51:26,644 [main] INFO logger_File - User did open the page
+2021-11-17 14:51:27,430 [main] INFO logger_File - User did click on the write review
+2021-11-17 14:51:30,631 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2021-11-17 14:53:38,443 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-17 14:53:51,454 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-17 14:53:52,163 [main] INFO logger_File - user did click on the desktops
+2021-11-17 14:53:56,904 [main] INFO logger_File - user did click on show all
+2021-11-17 14:54:01,557 [main] INFO logger_File - User did open the page
+2021-11-17 14:54:01,953 [main] INFO logger_File - User did click on the write review
+2021-11-17 14:54:03,974 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2021-11-17 15:02:54,329 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-17 15:03:12,651 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-17 15:03:13,210 [main] INFO logger_File - user did click on the desktops
+2021-11-17 15:03:23,663 [main] INFO logger_File - user did click on show all
+2021-11-17 15:03:31,086 [main] INFO logger_File - User did open the page
+2021-11-17 15:03:31,733 [main] INFO logger_File - User did click on the write review
+2021-11-17 15:03:33,411 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2021-11-17 15:13:59,311 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-17 15:14:16,107 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-17 15:14:16,831 [main] INFO logger_File - user did click on the desktops
+2021-11-17 15:14:23,163 [main] INFO logger_File - user did click on show all
+2021-11-17 15:14:29,717 [main] INFO logger_File - User did open the page
+2021-11-17 15:14:30,103 [main] INFO logger_File - User did click on the write review
+2021-11-17 15:14:34,532 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2021-11-17 15:20:30,097 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-17 15:20:45,572 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-17 15:20:46,146 [main] INFO logger_File - user did click on the desktops
+2021-11-17 15:20:53,595 [main] INFO logger_File - user did click on show all
+2021-11-17 15:21:00,214 [main] INFO logger_File - User did open the page
+2021-11-17 15:21:01,484 [main] INFO logger_File - User did click on the write review
+2021-11-17 15:21:07,319 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2021-11-17 15:30:53,053 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-17 15:31:13,252 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-17 15:31:13,737 [main] INFO logger_File - user did click on the desktops
+2021-11-17 15:31:22,311 [main] INFO logger_File - user did click on show all
+2021-11-17 15:31:29,530 [main] INFO logger_File - User did open the page
+2021-11-17 15:31:30,086 [main] INFO logger_File - User did click on the write review
+2021-11-17 15:31:32,197 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2021-11-17 15:42:52,846 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-17 15:43:13,272 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-17 15:43:13,772 [main] INFO logger_File - user did click on the desktops
+2021-11-17 15:43:21,746 [main] INFO logger_File - user did click on show all
+2021-11-17 15:43:28,881 [main] INFO logger_File - User did open the page
+2021-11-17 15:43:29,793 [main] INFO logger_File - User did click on the write review
+2021-11-17 15:43:33,007 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2021-11-17 16:03:14,099 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-17 16:03:27,752 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-17 16:03:28,325 [main] INFO logger_File - user did click on the desktops
+2021-11-17 16:03:32,675 [main] INFO logger_File - user did click on show all
+2021-11-17 16:03:38,033 [main] INFO logger_File - User did open the page
+2021-11-17 16:03:38,548 [main] INFO logger_File - User did click on the write review
+2021-11-17 16:03:40,667 [main] INFO logger_File - User did enter the requested info[{yourname=Ahmad, yourReview=really this camera is really good.I will recommend it goodI will recommend it goodI will recommend it good I will recommend it good, Rating=good}]
+2021-11-17 16:03:41,003 [main] INFO logger_File - User did click on the continue button
+2021-11-17 16:03:41,413 [main] INFO logger_File -  Thank you for your review. It has been submitted to the webmaster for approval
+2021-11-17 16:03:42,475 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2021-11-17 16:04:24,033 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-17 16:04:40,655 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-17 16:04:42,042 [main] INFO logger_File - user did click on the desktops
+2021-11-17 16:04:48,411 [main] INFO logger_File - user did click on show all
+2021-11-17 16:04:53,966 [main] INFO logger_File - User did open the page
+2021-11-17 16:04:54,539 [main] INFO logger_File - User did click on the write review
+2021-11-17 16:04:55,909 [main] INFO logger_File - User did enter the requested info[{yourname=Ahmad, yourReview=really this camera is really good.I will recommend it goodI will recommend it goodI will recommend it good I will recommend it good, Rating=good}]
+2021-11-17 16:04:56,262 [main] INFO logger_File - User did click on the continue button
+2021-11-17 16:04:56,569 [main] INFO logger_File -  Thank you for your review. It has been submitted to the webmaster for approval
+2021-11-17 16:04:57,543 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2021-11-18 20:12:43,202 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-18 20:13:19,017 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-18 20:13:20,672 [main] INFO logger_File - user did click on the desktops
+2021-11-18 20:13:23,886 [main] INFO logger_File - user did click on show all
+2021-11-18 20:13:30,036 [main] INFO logger_File - User did open the page
+2021-11-18 20:13:31,381 [main] INFO logger_File - User did click on the write review
+2021-11-18 20:13:32,925 [main] INFO logger_File - User did enter the requested info[{yourname=Ahmad, yourReview=really this camera is really good.I will recommend it goodI will recommend it goodI will recommend it good I will recommend it good, Rating=good}]
+2021-11-18 20:13:33,222 [main] INFO logger_File - User did click on the continue button
+2021-11-18 20:13:33,530 [main] INFO logger_File -  Thank you for your review. It has been submitted to the webmaster for approval
+2021-11-18 20:13:34,813 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2021-11-19 15:11:59,649 [main] INFO logger_File - Scenario Add and Remove a MacBook from Cart Started
+2021-11-19 15:12:34,465 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-19 15:12:36,072 [main] INFO logger_File - Scenario Add and Remove a MacBook from Cart UNDEFINED
+2021-11-19 15:15:35,494 [main] INFO logger_File - Scenario Add and Remove a MacBook from Cart Started
+2021-11-19 15:16:01,938 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-19 15:16:03,333 [main] INFO logger_File - Scenario Add and Remove a MacBook from Cart PASSED
+2021-11-19 16:27:12,040 [main] INFO logger_File - Scenario Add and Remove a MacBook from Cart Started
+2021-11-19 16:27:39,519 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-19 16:27:40,094 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-19 16:28:13,804 [main] INFO logger_File - Scenario Add and Remove a MacBook from Cart FAILED
+2021-11-19 16:30:43,201 [main] INFO logger_File - Scenario Add and Remove a MacBook from Cart Started
+2021-11-19 16:31:02,699 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-19 16:31:03,105 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-19 16:31:34,042 [main] INFO logger_File - Scenario Add and Remove a MacBook from Cart FAILED
+2021-11-19 16:37:12,838 [main] INFO logger_File - Scenario Add and Remove a MacBook from Cart Started
+2021-11-19 16:37:25,120 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-19 16:37:25,729 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-19 16:37:58,401 [main] INFO logger_File - Scenario Add and Remove a MacBook from Cart FAILED
+2021-11-19 16:52:52,814 [main] INFO logger_File - Scenario Add and Remove a MacBook from Cart Started
+2021-11-19 16:53:07,585 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-19 16:53:24,605 [main] INFO logger_File - Scenario Add and Remove a MacBook from Cart PASSED
+2021-11-19 16:54:04,151 [main] INFO logger_File - Scenario Add and Remove a MacBook from Cart Started
+2021-11-19 16:54:23,243 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-19 16:54:35,524 [main] INFO logger_File - Scenario Add and Remove a MacBook from Cart PASSED
+2021-11-19 16:59:29,103 [main] INFO logger_File - Scenario Add and Remove a MacBook from Cart Started
+2021-11-19 16:59:42,757 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-19 16:59:44,592 [main] INFO logger_File - Step 1
+2021-11-19 16:59:49,018 [main] INFO logger_File - Step 2
+2021-11-19 16:59:53,830 [main] INFO logger_File - Step 3
+2021-11-19 16:59:54,573 [main] INFO logger_File - Step 4
+2021-11-19 16:59:54,894 [main] INFO logger_File - Step 5
+2021-11-19 16:59:55,180 [main] INFO logger_File - Step 6
+2021-11-19 16:59:55,623 [main] INFO logger_File - Step 7
+2021-11-19 17:00:27,392 [main] INFO logger_File - Scenario Add and Remove a MacBook from Cart FAILED
+2021-11-19 17:01:12,827 [main] INFO logger_File - Scenario Add and Remove a MacBook from Cart Started
+2021-11-19 17:01:25,242 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-19 17:01:25,881 [main] INFO logger_File - Step 1
+2021-11-19 17:01:28,550 [main] INFO logger_File - Step 2
+2021-11-19 17:01:31,787 [main] INFO logger_File - Step 3
+2021-11-19 17:01:32,373 [main] INFO logger_File - Step 4
+2021-11-19 17:01:32,724 [main] INFO logger_File - Step 5
+2021-11-19 17:01:33,153 [main] INFO logger_File - Step 6
+2021-11-19 17:01:33,529 [main] INFO logger_File - Step 7
+2021-11-19 17:01:36,040 [main] INFO logger_File - Step 8
+2021-11-19 17:01:36,795 [main] INFO logger_File - Step 9
+2021-11-19 17:01:38,156 [main] INFO logger_File - Scenario Add and Remove a MacBook from Cart PASSED
+2021-11-19 17:02:33,154 [main] INFO logger_File - Scenario Add and Remove a MacBook from Cart Started
+2021-11-19 17:02:45,677 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-19 17:02:46,152 [main] INFO logger_File - Step 1
+2021-11-19 17:02:49,255 [main] INFO logger_File - Step 2
+2021-11-19 17:02:53,465 [main] INFO logger_File - Step 3
+2021-11-19 17:02:53,974 [main] INFO logger_File - Step 4
+2021-11-19 17:02:54,521 [main] INFO logger_File - Step 5
+2021-11-19 17:02:54,814 [main] INFO logger_File - Step 6
+2021-11-19 17:02:55,231 [main] INFO logger_File - Step 7
+2021-11-19 17:02:55,672 [main] INFO logger_File - Step 8
+2021-11-19 17:02:56,101 [main] INFO logger_File - Step 9
+2021-11-19 17:02:57,062 [main] INFO logger_File - Scenario Add and Remove a MacBook from Cart PASSED
+2021-11-22 14:10:10,017 [main] INFO logger_File - Scenario Product Comparison Started
+2021-11-22 14:10:39,367 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-22 14:10:40,408 [main] INFO logger_File - Step 1
+2021-11-22 14:10:42,514 [main] INFO logger_File - Step 2
+2021-11-22 14:10:44,128 [main] INFO logger_File - Scenario Product Comparison UNDEFINED
+2021-11-22 14:53:09,133 [main] INFO logger_File - Scenario Product Comparison Started
+2021-11-22 14:53:28,236 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-22 14:53:28,744 [main] INFO logger_File - Step 1
+2021-11-22 14:53:29,892 [main] INFO logger_File - Step 2
+2021-11-22 14:54:01,583 [main] INFO logger_File - Scenario Product Comparison FAILED
+2021-11-22 15:21:49,666 [main] INFO logger_File - Scenario Product Comparison Started
+2021-11-22 15:22:04,618 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-22 15:22:05,145 [main] INFO logger_File - Step 1
+2021-11-22 15:22:06,494 [main] INFO logger_File - Step 2
+2021-11-22 15:22:38,274 [main] INFO logger_File - Scenario Product Comparison FAILED
+2021-11-22 15:34:06,999 [main] INFO logger_File - Scenario Product Comparison Started
+2021-11-22 15:34:16,425 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-22 15:34:17,427 [main] INFO logger_File - Step 1
+2021-11-22 15:34:18,881 [main] INFO logger_File - Step 2
+2021-11-22 15:34:19,472 [main] INFO logger_File - Step 3
+2021-11-22 15:34:21,832 [main] INFO logger_File - Scenario Product Comparison FAILED
+2021-11-22 15:36:17,388 [main] INFO logger_File - Scenario Product Comparison Started
+2021-11-22 15:36:27,668 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-22 15:36:28,385 [main] INFO logger_File - Step 1
+2021-11-22 15:36:29,455 [main] INFO logger_File - Step 2
+2021-11-22 15:36:30,008 [main] INFO logger_File - Step 3
+2021-11-22 15:36:32,182 [main] INFO logger_File - Scenario Product Comparison FAILED
+2021-11-22 15:41:18,936 [main] INFO logger_File - Scenario Product Comparison Started
+2021-11-22 15:41:32,301 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-22 15:41:32,974 [main] INFO logger_File - Step 1
+2021-11-22 15:41:36,697 [main] INFO logger_File - Step 2
+2021-11-22 15:41:37,087 [main] INFO logger_File - Step 3
+2021-11-22 15:41:40,396 [main] INFO logger_File - Scenario Product Comparison FAILED
+2021-11-22 15:44:24,630 [main] INFO logger_File - Scenario Product Comparison Started
+2021-11-22 15:44:34,824 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-22 15:44:35,662 [main] INFO logger_File - Step 1
+2021-11-22 15:44:36,894 [main] INFO logger_File - Step 2
+2021-11-22 15:44:37,447 [main] INFO logger_File - Step 3
+2021-11-22 15:44:37,835 [main] INFO logger_File - Step 4
+2021-11-22 15:44:38,229 [main] INFO logger_File - Step 5
+2021-11-22 15:44:38,880 [main] INFO logger_File - Step 6
+2021-11-22 15:44:39,198 [main] INFO logger_File - Step 7
+2021-11-22 15:44:39,945 [main] INFO logger_File - Scenario Product Comparison PASSED
+2021-11-22 15:46:40,394 [main] INFO logger_File - Scenario Product Comparison Started
+2021-11-22 15:46:49,174 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-22 15:46:49,944 [main] INFO logger_File - Step 1
+2021-11-22 15:46:51,269 [main] INFO logger_File - Step 2
+2021-11-22 15:46:51,662 [main] INFO logger_File - Step 3
+2021-11-22 15:46:52,068 [main] INFO logger_File - Step 4
+2021-11-22 15:46:52,434 [main] INFO logger_File - Step 5
+2021-11-22 15:46:53,153 [main] INFO logger_File - Step 6
+2021-11-22 15:46:53,436 [main] INFO logger_File - Step 7
+2021-11-22 15:46:54,155 [main] INFO logger_File - Scenario Product Comparison PASSED
+2021-11-22 15:47:31,921 [main] INFO logger_File - Scenario Product Comparison Started
+2021-11-22 15:47:40,704 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-22 15:47:41,661 [main] INFO logger_File - Step 1
+2021-11-22 15:47:42,715 [main] INFO logger_File - Step 2
+2021-11-22 15:47:43,272 [main] INFO logger_File - Step 3
+2021-11-22 15:47:43,673 [main] INFO logger_File - Step 4
+2021-11-22 15:47:44,105 [main] INFO logger_File - Step 5
+2021-11-22 15:47:44,754 [main] INFO logger_File - Step 6
+2021-11-22 15:47:45,046 [main] INFO logger_File - Step 7
+2021-11-22 15:47:46,026 [main] INFO logger_File - Scenario Product Comparison PASSED
+2021-11-22 16:26:04,227 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-22 16:26:19,032 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-22 16:26:19,844 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab UNDEFINED
+2021-11-22 16:26:19,930 [main] INFO logger_File - Scenario Product Comparison Started
+2021-11-22 16:26:28,808 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-22 16:26:29,637 [main] INFO logger_File - Step 1
+2021-11-22 16:26:31,956 [main] INFO logger_File - Step 2
+2021-11-22 16:26:32,262 [main] INFO logger_File - Step 3
+2021-11-22 16:26:32,646 [main] INFO logger_File - Step 4
+2021-11-22 16:26:33,483 [main] INFO logger_File - Scenario Product Comparison FAILED
+2021-11-22 16:27:53,405 [main] INFO logger_File - Scenario Product Comparison Started
+2021-11-22 16:28:04,674 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-22 16:28:05,094 [main] INFO logger_File - Step 1
+2021-11-22 16:28:06,236 [main] INFO logger_File - Step 2
+2021-11-22 16:28:06,699 [main] INFO logger_File - Step 3
+2021-11-22 16:28:08,717 [main] INFO logger_File - Scenario Product Comparison FAILED
+2021-11-22 16:29:01,188 [main] INFO logger_File - Scenario Product Comparison Started
+2021-11-22 16:29:10,477 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-22 16:29:10,897 [main] INFO logger_File - Step 1
+2021-11-22 16:29:12,155 [main] INFO logger_File - Step 2
+2021-11-22 16:29:12,467 [main] INFO logger_File - Step 3
+2021-11-22 16:29:14,478 [main] INFO logger_File - Scenario Product Comparison FAILED
+2021-11-22 16:29:39,871 [main] INFO logger_File - Scenario Product Comparison Started
+2021-11-22 16:29:48,673 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-22 16:29:49,387 [main] INFO logger_File - Step 1
+2021-11-22 16:29:50,371 [main] INFO logger_File - Step 2
+2021-11-22 16:29:50,978 [main] INFO logger_File - Step 3
+2021-11-22 16:29:51,353 [main] INFO logger_File - Step 4
+2021-11-22 16:29:51,766 [main] INFO logger_File - Step 5
+2021-11-22 16:29:52,519 [main] INFO logger_File - Step 6
+2021-11-22 16:29:52,853 [main] INFO logger_File - Step 7
+2021-11-22 16:29:53,536 [main] INFO logger_File - Scenario Product Comparison PASSED
+2021-11-22 16:31:20,445 [main] INFO logger_File - Scenario Adding an item to Wish list Started
+2021-11-22 16:31:29,385 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-22 16:31:30,016 [main] INFO logger_File - Step 1
+2021-11-22 16:31:31,237 [main] INFO logger_File - Step 2
+2021-11-22 16:31:31,826 [main] INFO logger_File - Scenario Adding an item to Wish list UNDEFINED
+2021-11-23 13:37:23,442 [main] INFO logger_File - Scenario Adding an item to Wish list Started
+2021-11-23 13:37:53,185 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-23 13:37:54,653 [main] INFO logger_File - Step 1
+2021-11-23 13:37:56,502 [main] INFO logger_File - Step 2
+2021-11-23 13:37:56,865 [main] INFO logger_File - Step 3
+2021-11-23 13:37:57,283 [main] INFO logger_File - Step 4
+2021-11-23 13:37:58,522 [main] INFO logger_File - Scenario Adding an item to Wish list PASSED
+2021-11-23 13:38:27,559 [main] INFO logger_File - Scenario Adding an item to Wish list Started
+2021-11-23 13:38:39,110 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-23 13:38:40,041 [main] INFO logger_File - Step 1
+2021-11-23 13:38:41,338 [main] INFO logger_File - Step 2
+2021-11-23 13:38:42,038 [main] INFO logger_File - Step 3
+2021-11-23 13:38:42,406 [main] INFO logger_File - Step 4
+2021-11-23 13:38:43,510 [main] INFO logger_File - Scenario Adding an item to Wish list PASSED
+2021-11-23 13:45:59,027 [main] INFO logger_File - Scenario Adding an item to Wish list Started
+2021-11-23 13:46:12,960 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-23 13:46:13,454 [main] INFO logger_File - Step 1
+2021-11-23 13:46:14,983 [main] INFO logger_File - Step 2
+2021-11-23 13:46:16,589 [main] INFO logger_File - Step 3
+2021-11-23 13:46:17,060 [main] INFO logger_File - Step 4
+2021-11-23 13:46:17,944 [main] INFO logger_File - Scenario Adding an item to Wish list PASSED
+2021-11-23 13:57:43,811 [main] INFO logger_File - Scenario Adding an item to Wish list Started
+2021-11-23 13:57:54,660 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-23 13:57:55,286 [main] INFO logger_File - Step 1
+2021-11-23 13:57:56,450 [main] INFO logger_File - Step 2
+2021-11-23 13:57:57,158 [main] INFO logger_File - Step 3
+2021-11-23 13:57:57,522 [main] INFO logger_File - The actual alert message matches the expected one
+2021-11-23 13:57:57,523 [main] INFO logger_File - Step 4
+2021-11-23 13:57:58,465 [main] INFO logger_File - Scenario Adding an item to Wish list PASSED
+2021-11-23 14:00:48,426 [main] INFO logger_File - Scenario Adding an item to Wish list Started
+2021-11-23 14:00:59,512 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-23 14:01:00,350 [main] INFO logger_File - Step 1
+2021-11-23 14:01:02,038 [main] INFO logger_File - Step 2
+2021-11-23 14:01:02,668 [main] INFO logger_File - Step 3
+2021-11-23 14:01:03,080 [main] INFO logger_File - The actual alert message matches the expected one
+2021-11-23 14:01:03,081 [main] INFO logger_File - Step 4
+2021-11-23 14:01:04,015 [main] INFO logger_File - Scenario Adding an item to Wish list PASSED
+2021-11-23 14:10:31,785 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started
+2021-11-23 14:10:43,900 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-23 14:10:45,032 [main] INFO logger_File - Step 1
+2021-11-23 14:10:48,298 [main] INFO logger_File - Step 2
+2021-11-23 14:10:49,480 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 UNDEFINED
+2021-11-23 14:43:20,548 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started
+2021-11-23 14:43:33,558 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-23 14:43:34,050 [main] INFO logger_File - Step 1
+2021-11-23 14:43:36,726 [main] INFO logger_File - Step 2
+2021-11-23 14:43:40,319 [main] INFO logger_File - Step 3
+2021-11-23 14:44:52,354 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started
+2021-11-23 14:45:02,557 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-23 14:45:03,304 [main] INFO logger_File - Step 1
+2021-11-23 14:45:04,640 [main] INFO logger_File - Step 2
+2021-11-23 14:45:07,196 [main] INFO logger_File - Step 3
+2021-11-23 14:45:42,033 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 FAILED
+2021-11-23 15:06:39,059 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started
+2021-11-23 15:06:58,428 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-23 15:06:58,914 [main] INFO logger_File - Step 1
+2021-11-23 15:07:04,577 [main] INFO logger_File - Step 2
+2021-11-23 15:07:05,203 [main] INFO logger_File - Step 3
+2021-11-23 15:07:05,582 [main] INFO logger_File - actualPriceTag = ExpectedPriceTag
+2021-11-23 15:07:06,661 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2021-11-23 15:09:52,142 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started
+2021-11-23 15:10:07,865 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-23 15:10:08,548 [main] INFO logger_File - Step 1
+2021-11-23 15:10:09,504 [main] INFO logger_File - Step 2
+2021-11-23 15:10:40,419 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 FAILED
+2021-11-23 15:11:46,386 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started
+2021-11-23 15:11:55,429 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-23 15:11:56,358 [main] INFO logger_File - Step 1
+2021-11-23 15:11:57,828 [main] INFO logger_File - Step 2
+2021-11-23 15:11:58,601 [main] INFO logger_File - Step 3
+2021-11-23 15:11:58,876 [main] INFO logger_File - actualPriceTag = ExpectedPriceTag
+2021-11-23 15:11:59,873 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2021-11-27 11:03:48,326 [main] INFO logger_File - Scenario Retail Website Login Started
+2021-11-27 11:04:16,605 [main] INFO logger_File - Scenario Retail Website Login UNDEFINED
+2021-11-27 11:09:28,170 [main] INFO logger_File - Scenario Retail Website Login Started
+2021-11-27 11:09:39,465 [main] INFO logger_File - Scenario Retail Website Login PENDING
+2021-11-27 11:44:18,870 [main] INFO logger_File - Scenario Retail Website Login Started
+2021-11-27 11:44:30,316 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-27 11:44:31,221 [main] INFO logger_File - User clicked on my account
+2021-11-27 11:44:33,463 [main] INFO logger_File - User clicked on login
+2021-11-27 11:44:34,584 [main] INFO logger_File - Scenario Retail Website Login UNDEFINED
+2021-11-27 11:52:41,832 [main] INFO logger_File - Scenario Retail Website Login Started
+2021-11-27 11:52:56,878 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-27 11:52:58,571 [main] INFO logger_File - User clicked on my account
+2021-11-27 11:52:59,563 [main] INFO logger_File - User clicked on login
+2021-11-27 11:53:00,667 [main] INFO logger_File - Scenario Retail Website Login UNDEFINED
+2021-11-27 11:56:02,180 [main] INFO logger_File - Scenario Retail Website Login Started
+2021-11-27 11:56:13,177 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-27 11:56:13,597 [main] INFO logger_File - User clicked on my account
+2021-11-27 11:56:14,792 [main] INFO logger_File - User clicked on login
+2021-11-27 11:56:15,627 [main] INFO logger_File - Scenario Retail Website Login UNDEFINED
+2021-11-27 11:58:28,704 [main] INFO logger_File - Scenario Retail Website Login Started
+2021-11-27 11:58:36,873 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-27 11:58:37,808 [main] INFO logger_File - User clicked on my account
+2021-11-27 11:58:38,754 [main] INFO logger_File - User clicked on login
+2021-11-27 11:58:39,799 [main] INFO logger_File - Scenario Retail Website Login UNDEFINED
+2021-11-27 12:07:38,753 [main] INFO logger_File - Scenario Retail Website Login Started
+2021-11-27 12:07:56,056 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-27 12:07:56,575 [main] INFO logger_File - User clicked on my account
+2021-11-27 12:08:01,123 [main] INFO logger_File - User clicked on login
+2021-11-27 12:08:02,021 [main] INFO logger_File - Scenario Retail Website Login UNDEFINED
+2021-11-27 12:09:56,488 [main] INFO logger_File - Scenario Retail Website Login Started
+2021-11-27 12:10:11,159 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-27 12:10:11,753 [main] INFO logger_File - User clicked on my account
+2021-11-27 12:10:14,300 [main] INFO logger_File - User clicked on login
+2021-11-27 12:10:18,787 [main] INFO logger_File - User clicked on login Button
+2021-11-27 12:10:49,799 [main] INFO logger_File - Scenario Retail Website Login FAILED
+2021-11-27 12:13:23,460 [main] INFO logger_File - Scenario Retail Website Login Started
+2021-11-27 12:13:40,851 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-27 12:13:41,317 [main] INFO logger_File - User clicked on my account
+2021-11-27 12:13:44,200 [main] INFO logger_File - User clicked on login
+2021-11-27 12:13:45,129 [main] INFO logger_File - Scenario Retail Website Login UNDEFINED
+2021-11-27 12:26:50,129 [main] INFO logger_File - Scenario Retail Website Login Started
+2021-11-27 12:27:00,996 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-27 12:27:01,796 [main] INFO logger_File - User clicked on my account
+2021-11-27 12:27:03,740 [main] INFO logger_File - User clicked on login
+2021-11-27 12:27:04,479 [main] INFO logger_File - Scenario Retail Website Login UNDEFINED
+2021-11-27 12:28:58,063 [main] INFO logger_File - Scenario Retail Website Login Started
+2021-11-27 12:29:12,422 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-27 12:29:12,881 [main] INFO logger_File - User clicked on my account
+2021-11-27 12:29:16,577 [main] INFO logger_File - User clicked on login
+2021-11-27 12:29:21,674 [main] INFO logger_File - User clicked on login Button
+2021-11-27 12:29:41,806 [main] INFO logger_File - User is able to see the myaccount text.
+2021-11-27 12:29:42,470 [main] INFO logger_File - Scenario Retail Website Login PASSED
+2021-11-27 12:31:55,815 [main] INFO logger_File - Scenario Retail Website Login Started
+2021-11-27 12:32:06,976 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-27 12:32:07,751 [main] INFO logger_File - User clicked on my account
+2021-11-27 12:32:08,950 [main] INFO logger_File - User clicked on login
+2021-11-27 12:32:09,741 [main] INFO logger_File - Scenario Retail Website Login FAILED
+2021-11-27 12:33:30,353 [main] INFO logger_File - Scenario Retail Website Login Started
+2021-11-27 12:33:42,629 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-27 12:33:43,057 [main] INFO logger_File - User clicked on my account
+2021-11-27 12:33:45,561 [main] INFO logger_File - User clicked on login
+2021-11-27 12:33:46,325 [main] INFO logger_File - Scenario Retail Website Login FAILED
+2021-11-27 12:34:46,012 [main] INFO logger_File - Scenario Retail Website Login Started
+2021-11-27 12:35:01,033 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-27 12:35:01,511 [main] INFO logger_File - User clicked on my account
+2021-11-27 12:35:06,262 [main] INFO logger_File - User clicked on login
+2021-11-27 12:35:07,027 [main] INFO logger_File - Scenario Retail Website Login FAILED
+2021-11-27 12:37:47,088 [main] INFO logger_File - Scenario Retail Website Login Started
+2021-11-27 12:38:02,194 [main] INFO logger_File - Scenario Retail Website Login FAILED
+2021-11-27 12:39:46,732 [main] INFO logger_File - Scenario Retail Website Login Started
+2021-11-27 12:40:00,913 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-27 12:40:01,568 [main] INFO logger_File - User clicked on my account
+2021-11-27 12:40:08,630 [main] INFO logger_File - User clicked on login
+2021-11-27 12:40:09,316 [main] INFO logger_File - Scenario Retail Website Login UNDEFINED
+2021-11-27 12:41:16,915 [main] INFO logger_File - Scenario Retail Website Login Started
+2021-11-27 12:41:28,084 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-27 12:41:28,589 [main] INFO logger_File - User clicked on my account
+2021-11-27 12:41:31,011 [main] INFO logger_File - User clicked on login
+2021-11-27 12:41:33,247 [main] INFO logger_File - User clicked on login Button
+2021-11-27 12:42:20,656 [main] INFO logger_File - Scenario Retail Website Login Started
+2021-11-27 12:42:32,710 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-27 12:42:33,131 [main] INFO logger_File - User clicked on my account
+2021-11-27 12:42:34,608 [main] INFO logger_File - User clicked on login
+2021-11-27 12:42:36,167 [main] INFO logger_File - User clicked on login Button
+2021-11-27 12:43:10,794 [main] INFO logger_File - Scenario Retail Website Login FAILED
+2021-11-27 12:43:51,679 [main] INFO logger_File - Scenario Retail Website Login Started
+2021-11-27 12:44:11,021 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-27 12:44:11,756 [main] INFO logger_File - User clicked on my account
+2021-11-27 12:44:21,284 [main] INFO logger_File - User clicked on login
+2021-11-27 12:44:22,083 [main] INFO logger_File - Scenario Retail Website Login UNDEFINED
+2021-11-27 13:05:58,140 [main] INFO logger_File - Scenario Retail Website Login Started
+2021-11-27 13:06:15,317 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-27 13:06:15,883 [main] INFO logger_File - User clicked on my account
+2021-11-27 13:06:18,316 [main] INFO logger_File - User clicked on login
+2021-11-27 13:06:19,341 [main] INFO logger_File - Scenario Retail Website Login UNDEFINED
+2021-11-29 10:12:47,009 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-29 10:13:16,295 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-29 10:13:19,981 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2021-11-29 10:27:54,331 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-29 10:28:09,606 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-29 10:28:12,485 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2021-11-29 10:59:37,147 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-29 10:59:50,496 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-29 10:59:51,657 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2021-11-29 14:46:33,462 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-29 14:47:01,671 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-29 14:47:05,896 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2021-11-29 14:51:27,959 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-29 14:51:39,403 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-29 14:51:41,234 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2021-11-29 15:06:10,201 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-29 15:08:25,345 [main] INFO logger_File - Scenario Retail Website Login Started
+2021-11-29 15:08:46,053 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-29 15:08:46,627 [main] INFO logger_File - User clicked on my account
+2021-11-29 15:08:50,509 [main] INFO logger_File - User clicked on login
+2021-11-29 15:08:51,606 [main] INFO logger_File - Scenario Retail Website Login UNDEFINED
+2021-11-29 15:11:19,455 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-29 15:11:36,526 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-29 15:11:40,388 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2021-11-29 15:32:10,567 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-29 15:32:25,031 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-11-29 15:52:17,383 [main] INFO logger_File - Scenario Retail Website Login Started
+2021-11-29 15:52:29,995 [main] INFO logger_File - Actual Title is matching with expected title
+2021-11-29 15:52:30,583 [main] INFO logger_File - User clicked on my account
+2021-11-29 15:52:32,738 [main] INFO logger_File - User clicked on login
+2021-11-29 15:52:34,071 [main] INFO logger_File - Scenario Retail Website Login UNDEFINED
+2021-11-29 15:55:39,510 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-29 15:55:52,971 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-29 15:55:54,854 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2021-11-29 15:59:06,768 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-29 15:59:30,087 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-29 15:59:36,779 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2021-11-29 16:03:04,407 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-29 16:03:24,184 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-29 16:03:31,103 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-11-29 16:09:42,989 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-29 16:10:00,353 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-29 16:10:08,161 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-11-29 16:16:08,419 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-29 16:16:30,196 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-29 16:16:45,404 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-11-29 16:22:26,820 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-11-29 16:22:41,399 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-29 16:22:42,804 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab UNDEFINED
+2021-11-29 16:22:43,011 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-29 16:22:56,312 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-29 16:23:05,704 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-11-29 16:23:57,876 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-29 16:24:14,697 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-29 16:24:27,820 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-11-29 16:31:11,626 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-29 16:31:26,310 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-29 16:31:34,212 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-11-29 16:43:53,903 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-29 16:44:14,653 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-29 16:44:24,892 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-11-29 16:46:34,534 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-29 16:46:45,945 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-29 16:47:27,867 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-11-29 16:48:52,769 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-29 16:49:11,172 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-29 16:49:49,952 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-11-29 16:59:28,652 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-29 16:59:40,003 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-29 17:00:15,247 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-11-29 17:05:18,455 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-29 17:05:33,926 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-29 17:06:16,217 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-11-29 17:07:26,196 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-29 17:07:39,890 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-29 17:08:17,089 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-11-29 17:08:19,771 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-29 17:08:38,694 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-29 17:09:22,767 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-11-29 17:11:08,219 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-29 17:11:24,767 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-29 17:12:06,228 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-11-29 17:13:49,830 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-29 17:14:08,510 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-29 17:14:21,130 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-11-29 17:15:13,118 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-29 17:15:24,343 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-29 17:15:29,192 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-11-29 17:17:25,427 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-29 17:17:36,128 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-29 17:18:10,711 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-11-29 17:19:57,343 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-29 17:20:10,555 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-29 17:20:21,917 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2021-11-29 17:28:53,246 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-29 17:29:04,591 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-29 17:29:41,761 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-11-29 17:35:26,939 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-29 17:35:39,454 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-29 17:36:15,055 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-11-29 17:38:22,465 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-29 17:38:32,813 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-29 17:39:09,112 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-11-29 17:40:51,775 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-29 17:41:04,944 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-29 17:41:41,815 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-11-29 17:49:29,741 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-29 17:49:41,026 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-29 17:50:16,522 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-11-29 17:54:16,019 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-29 17:54:27,732 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-29 17:55:04,305 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-11-29 23:52:31,128 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-29 23:52:50,806 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-29 23:53:31,196 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-11-29 23:55:37,258 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-29 23:55:53,203 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-29 23:56:29,365 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-11-29 23:58:44,934 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-29 23:58:55,472 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-29 23:59:31,365 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-11-30 00:02:47,022 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-30 00:02:58,077 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-30 00:03:36,679 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-11-30 00:08:43,228 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-30 00:08:53,947 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-30 00:09:29,956 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2021-11-30 00:10:21,043 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-30 00:10:32,165 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-30 00:10:39,176 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2021-11-30 00:23:10,753 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-30 00:23:20,278 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-30 00:24:31,545 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-30 00:24:48,079 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-30 00:30:28,673 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-30 00:30:45,354 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-30 00:30:57,543 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2021-11-30 00:34:13,275 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-30 00:34:25,536 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-30 00:35:13,813 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-30 00:35:30,473 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-30 00:38:16,215 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-30 00:38:29,455 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-30 00:39:50,133 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-30 00:40:05,407 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-11-30 00:40:23,569 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-30 00:48:19,815 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-11-30 10:10:18,505 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-11-30 10:10:56,159 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-30 10:11:00,430 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer UNDEFINED
+2021-11-30 11:24:46,643 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-11-30 11:25:07,873 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-30 11:25:13,001 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer UNDEFINED
+2021-11-30 11:29:15,838 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-11-30 11:29:28,466 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-30 11:30:00,679 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-11-30 11:43:05,134 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-11-30 11:43:19,832 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer UNDEFINED
+2021-11-30 11:55:55,026 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-11-30 11:56:08,416 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-30 11:56:10,069 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer UNDEFINED
+2021-11-30 12:07:04,632 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-11-30 12:07:18,653 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-30 12:07:25,441 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-11-30 12:10:49,873 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-11-30 12:11:00,711 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-30 12:11:36,480 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-11-30 12:17:35,924 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-11-30 12:17:54,112 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-30 12:18:03,246 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2021-11-30 13:52:03,720 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-11-30 13:52:22,451 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-30 13:52:28,945 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2021-11-30 13:54:24,389 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-11-30 13:54:39,570 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-30 14:05:08,660 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-11-30 14:05:41,631 [main] INFO logger_File - The actual Page Title matches the expected one
+2021-11-30 14:05:43,715 [main] INFO logger_File -  User did click on the affiliate accountlink
+2021-11-30 14:05:44,424 [main] INFO logger_File - User did enter the email address
+2021-11-30 14:05:45,025 [main] INFO logger_File - User did enter the password
+2021-11-30 14:05:47,088 [main] INFO logger_File - User did click on the login
+2021-11-30 14:05:48,604 [main] INFO logger_File - User did click on the edit your affiliate informationlink
+2021-11-30 14:05:48,982 [main] INFO logger_File - User did click on Bank Transfer radio button
+2021-11-30 14:05:50,184 [main] INFO logger_File - User did fill the Bank information with above information
+2021-11-30 14:05:51,615 [main] INFO logger_File - User did click on Continue button
+2021-11-30 14:05:52,020 [main] INFO logger_File - User can see the success message
+2021-11-30 14:05:54,928 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED

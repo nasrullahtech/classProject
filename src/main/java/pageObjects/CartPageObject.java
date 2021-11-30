@@ -1,0 +1,75 @@
+package pageObjects;
+
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+import core.Base;
+
+public class CartPageObject extends Base {
+
+	public CartPageObject() {
+		PageFactory.initElements(driver, this);
+
+	}
+
+	@FindBy(xpath = "//a[contains(text(),'TEST ENVIRONMENT')]")
+	private WebElement title;
+
+	@FindBy(xpath = "//body/div[1]/nav[1]/div[2]/ul[1]/li[1]/a[1]")
+	private WebElement desktops;
+
+	@FindBy(xpath = "//a[contains(text(),'Show All Desktops')]")
+	private WebElement showAll;
+
+	@FindBy(xpath = "//body/div[@id='product-category']/div[1]/div[1]/div[4]/div[3]/div[1]/div[2]/div[2]/button[1]/span[1]")
+	private WebElement cart;
+
+	@FindBy(xpath = "//input[@id='input-quantity']")
+	private WebElement quantity;
+
+	@FindBy(xpath = "//button[@id='button-cart']")
+	private WebElement addToCart;
+
+	@FindBy(xpath = "//body/div[@id='product-product']/div[1]")
+	private WebElement successMessage;
+
+	public boolean titlePresent() {
+
+		if (title.isDisplayed())
+			return true;
+		else
+			return false;
+	}
+
+	public void clickDesktops() {
+		desktops.click();
+	}
+
+	public void clickOnShowAll() {
+		showAll.click();
+
+	}
+
+	public void clickOnCart() {
+		cart.click();
+	}
+
+	public void enterQuantity(String quantityValue) {
+		quantity.sendKeys(quantityValue);
+
+	}
+
+	public void addToCart() {
+		addToCart.click();
+	}
+
+	public boolean successMessage() {
+		if (successMessage.isDisplayed())
+			return true;
+		else
+			return false;
+
+	}
+
+}
